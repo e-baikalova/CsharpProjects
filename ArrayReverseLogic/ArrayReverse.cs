@@ -1,7 +1,7 @@
-
+﻿
 using System;
 
-class myArrayProgram {
+class myProgram {
     //read array length
     static int ReadInt(string text)
     {
